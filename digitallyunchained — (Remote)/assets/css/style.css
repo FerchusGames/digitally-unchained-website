@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,700;1,400&display=swap");
+
+:root {
+  --maingreen: #008056;
+  --pink: #f7acaa;
+  --yellow: #f4e8a5;
+  --cream: #f2f0e7;
+  --white: #ecf2f2;
+  --black: #000000;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.green-button {
+  background-color: var(--maingreen);
+  color: var(--white);
+  border-radius: 10px;
+  border-color: var(--cream);
+  border-style: solid;
+  padding: 10px 20px;
+}
+
+.green-button:hover {
+  background-color: var(--cream);
+  color: var(--maingreen);
+}
+
+li {
+  margin-left: 30px;
+}
+
+.promotion-header {
+  display: flex;
+  width: 100%;
+  background-color: var(--maingreen);
+  color: var(--white);
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px 15px;
+}
+
+.btn-white-border:link,
+.btn-white-border:visited {
+  color: var(--white);
+  border: 1px solid var(--white);
+}
+
+.btn-white-border:hover {
+  color: var(--black);
+  border: 1px solid var(--white);
+  background-color: var(--white);
+}
+
+.nav-icon {
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+}
+
+.carousel-indicators {
+  list-style: none;
+}
