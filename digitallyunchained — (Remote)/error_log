@@ -1,0 +1,263 @@
+[12-Oct-2023 02:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:29:27 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 5
+[12-Oct-2023 02:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "System\Core" not found in /home/rociocha/digitallyunchained.rociochavezml.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 9
+[12-Oct-2023 02:42:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "System\ROUTES" in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:30
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 30
+[12-Oct-2023 02:42:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "System\ROUTES" in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:30
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 30
+[12-Oct-2023 02:43:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "System\ROUTES" in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:30
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 30
+[12-Oct-2023 02:43:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "System\ROUTES" in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:30
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 30
+[12-Oct-2023 02:45:00 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined property: System\Router::$RouteAlias in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:216
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(216): exception_error_handler()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(86): System\Router->checkRouteForAlias()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(75): System\Router->mapRoute()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(36): System\Router->mappingRoute()
+#4 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#5 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 216
+[12-Oct-2023 02:45:00 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined property: System\Router::$RouteAlias in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php:216
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(216): exception_error_handler()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(86): System\Router->checkRouteForAlias()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(75): System\Router->mapRoute()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php(36): System\Router->mappingRoute()
+#4 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(11): System\Router->__construct()
+#5 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/router.php on line 216
+[12-Oct-2023 02:46:30 UTC] PHP Parse error:  syntax error, unexpected identifier "var_dump", expecting "," or ";" in /home/rociocha/digitallyunchained.rociochavezml.com/index.php on line 10
+[17-Oct-2023 02:07:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php on line 88
+[17-Oct-2023 02:07:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php on line 88
+[17-Oct-2023 02:07:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php on line 88
+[17-Oct-2023 02:08:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:16
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 16
+[17-Oct-2023 02:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:16
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 16
+[17-Oct-2023 02:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:17
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 17
+[17-Oct-2023 02:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:17
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 17
+[17-Oct-2023 02:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:17
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 17
+[17-Oct-2023 02:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:17
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 17
+[17-Oct-2023 02:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:17
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 17
+[17-Oct-2023 02:15:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:16
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 16
+[17-Oct-2023 02:31:13 UTC] PHP Parse error:  syntax error, unexpected token "?" in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 16
+[17-Oct-2023 02:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[17-Oct-2023 02:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[17-Oct-2023 02:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[17-Oct-2023 02:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[17-Oct-2023 02:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[17-Oct-2023 02:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function showResult() on bool in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): index->add()
+#1 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 20
+[19-Oct-2023 01:53:59 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\Utilities\Utilities" in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 2
+[19-Oct-2023 01:54:28 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\Utilities\Utilities" in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 2
+[19-Oct-2023 01:54:28 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\Utilities\Utilities" in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 2
+[19-Oct-2023 01:54:31 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\Utilities\Utilities" in /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php on line 2
+[26-Oct-2023 01:57:51 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/rociocha/digitallyunchained.rociochavezml.com/app/views/screen/practice/home.php on line 2
+[31-Oct-2023 01:57:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'rociocha'@'localhost' (using password: NO) in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:91
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(91): PDO->__construct()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(53): Db\Dbpdo->connectPdo()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(63): Db\Dbpdo->__construct()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/banners.php(10): Db\Dbpdo::getInstance()
+#4 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php(95): Banners->__construct()
+#5 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php(45): System\Load->loadClass()
+#6 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(14): System\Load->model()
+#7 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#8 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 91
+[31-Oct-2023 02:14:37 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable $result in /home/rociocha/digitallyunchained.rociochavezml.com/app/models/banners.php:20
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/banners.php(20): exception_error_handler()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(15): Banners->getBanners()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#3 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/models/banners.php on line 20
+[20-Nov-2023 20:55:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[20-Nov-2023 20:55:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[20-Nov-2023 21:36:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[21-Nov-2023 18:27:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'where clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[21-Nov-2023 18:32:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'visible' in 'where clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/banners.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(24): Banners->getBanners()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[21-Nov-2023 18:34:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orderImage' in 'order clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[21-Nov-2023 18:34:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orderImage' in 'order clause' in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php:145
+Stack trace:
+#0 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php(145): PDOStatement->execute()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/models/products.php(20): Db\Dbpdo->selectSQL()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(26): Products->getProducts()
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#4 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/db/dbpdo.php on line 145
+[23-Nov-2023 00:15:40 UTC] PHP Fatal error:  Uncaught ErrorException: file_get_contents(/path/to/svg/file.svg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php:4
+Stack trace:
+#0 [internal function]: exception_error_handler()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php(4): file_get_contents()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php(63): include('/home/rociocha/...')
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(31): System\Load->view()
+#4 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#5 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php on line 4
+[23-Nov-2023 00:16:40 UTC] PHP Fatal error:  Uncaught ErrorException: file_get_contents(/assets/images/favicon/safari-pinned-tab.svg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php:4
+Stack trace:
+#0 [internal function]: exception_error_handler()
+#1 /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php(4): file_get_contents()
+#2 /home/rociocha/digitallyunchained.rociochavezml.com/app/libs/system/load.php(63): include('/home/rociocha/...')
+#3 /home/rociocha/digitallyunchained.rociochavezml.com/app/controllers/index.php(31): System\Load->view()
+#4 /home/rociocha/digitallyunchained.rociochavezml.com/index.php(26): Index->main()
+#5 {main}
+  thrown in /home/rociocha/digitallyunchained.rociochavezml.com/app/views/layout/footer.php on line 4
