@@ -224,3 +224,78 @@ Stack trace:
 [09-Nov-2023 00:32:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_image.php on line 10
 [14-Nov-2023 00:31:56 UTC] PHP Parse error:  syntax error, unexpected identifier "old" in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_profile_picture.php on line 24
 [14-Nov-2023 00:36:38 UTC] PHP Parse error:  syntax error, unexpected identifier "old" in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_profile_picture.php on line 26
+[25-Nov-2023 03:51:10 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:51:10 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 03:51:10 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:51:10 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 03:51:26 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:51:26 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 03:51:26 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:51:26 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 03:56:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:56:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 03:56:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 03:56:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:40:46 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:40:46 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:40:46 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:40:46 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:41:11 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:41:11 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:41:11 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:41:11 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:43:48 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:43:48 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:43:48 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:43:48 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:58:59 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:58:59 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 06:58:59 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 06:58:59 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:03:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:03:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:03:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:03:41 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:07:38 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:07:38 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:07:38 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:07:38 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:08:05 UTC] PHP Warning:  move_uploaded_file(../assets/images/product/NtvQLL17f3v9cMggV6yrEaBEEU33Kc.jpg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:08:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php7MtSaX&quot; to &quot;../assets/images/product/NtvQLL17f3v9cMggV6yrEaBEEU33Kc.jpg&quot; in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:08:06 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:08:06 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:08:06 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:08:06 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  move_uploaded_file(../assets/images/product/BkZJdYmkmCIhY5YEnP0BxvrH85281R.jpg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:10:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpmi5v5Y&quot; to &quot;../assets/images/product/BkZJdYmkmCIhY5YEnP0BxvrH85281R.jpg&quot; in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:10:10 UTC] PHP Warning:  move_uploaded_file(../assets/images/product/lrsSu0qRtlk1g0cyAhRsAIF2lkBHTe.jpg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:10:10 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpldRCq0&quot; to &quot;../assets/images/product/lrsSu0qRtlk1g0cyAhRsAIF2lkBHTe.jpg&quot; in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:11:22 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:11:22 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:11:22 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:11:22 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:11:50 UTC] PHP Warning:  move_uploaded_file(../assets/images/product/gndAzPkPIw8J2bauUNWzcfZGAUjpqb.jpg): Failed to open stream: No such file or directory in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:11:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php7HXJsE&quot; to &quot;../assets/images/product/gndAzPkPIw8J2bauUNWzcfZGAUjpqb.jpg&quot; in /home/rociocha/digitallyunchained.rociochavezml.com/php/upload_product_image.php on line 18
+[25-Nov-2023 07:11:51 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:11:51 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:11:51 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:11:51 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:13:56 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:13:56 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:13:56 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:13:56 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:17:50 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:17:50 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:17:50 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:17:50 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:18:16 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:18:16 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[25-Nov-2023 07:18:16 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 17
+[25-Nov-2023 07:18:16 UTC] PHP Warning:  Undefined array key "profilePicture" in /home/rociocha/digitallyunchained.rociochavezml.com/php/show_product.php on line 21
+[27-Nov-2023 05:47:11 UTC] PHP Warning:  Undefined array key "name" in /home/rociocha/digitallyunchained.rociochavezml.com/php/add_product.php on line 3
+[27-Nov-2023 05:47:11 UTC] PHP Warning:  Undefined array key "price" in /home/rociocha/digitallyunchained.rociochavezml.com/php/add_product.php on line 4
+[27-Nov-2023 05:47:11 UTC] PHP Warning:  Undefined array key "description" in /home/rociocha/digitallyunchained.rociochavezml.com/php/add_product.php on line 5

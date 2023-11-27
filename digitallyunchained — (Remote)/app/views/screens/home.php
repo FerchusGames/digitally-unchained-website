@@ -2,7 +2,7 @@
 <section class="container col-xxl-8 px-5 py-5 my-5">
   <div class="row flex-lg-row-reverse align-items-center g-5 pt-5">
     <div class="col-12 col-sm-12 col-lg-4">
-      <img src="/assets/images/art/free_man.png" class="d-block mx-lg-auto img-fluid" alt="Free Man">
+      <img src="<?=URL?>/images/art/other/free_man.png" class="d-block mx-lg-auto img-fluid" alt="Free Man">
     </div>
     <div class="col-lg-8">
       <h1 class="display-3 fw-bold lh-1 mb-3">This is the start
@@ -13,11 +13,9 @@ of the rest of your lives.</h1>
       </div> -->
     </div>
   </div>
-
-
 </section>
 
-<section class="conatiner-fluid dark">
+<section class="container-fluid dark">
   <div class="container col-xxl-8 px-5 py-5 mt-2">
     
     <h2 class="display-5 fw-bold lh-1 pb-4">How it works</h2>
@@ -52,6 +50,19 @@ of the rest of your lives.</h1>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="container col-xxl-8 px-5 py-5 my-2">
+  <div class="row flex-lg-row align-items-center g-5">
+    <div class="col-12 col-sm-12 col-lg-4">
+      <img src="/assets/images/art/other/start_now.png" class="d-block mx-lg-auto img-fluid" alt="Free Man">
+    </div>
+    <div class="col-lg-8">
+      <h1 class="display-4 fw-bold lh-1 mb-3">What are you waiting for?</h1>
+      <p class="lead">Take the quiz and change your life. It takes less than 3 minutes!</p>
+      <a class="btn btn-lg mt-3" href="<?=URL."/start"?>">Start Now</a>
     </div>
   </div>
 </section>

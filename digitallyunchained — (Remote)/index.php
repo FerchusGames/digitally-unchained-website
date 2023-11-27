@@ -6,10 +6,14 @@
     include("config/config.php");
     include("config/autoload.php");
 
+    session_start();
+
     $core = new \System\Core();
 
     $routes = new \System\Router("index", SUBDIR);
     $option = $routes->getController();
+
+    $notFound = true;
     if($option) 
     {
         $controller = $core->load->controller($option);
@@ -23,8 +27,14 @@
             }
             if(method_exists($controller, $method))
             {
+                $notFound = false;
                 call_user_func_array([$controller, $method], $params);
             }
         }
+    }
+    if($notFound == true){
+        header("HTTP/1.0 404 Not Found");
+        echo "404 Not Found";
+        die();
     }
 ?>

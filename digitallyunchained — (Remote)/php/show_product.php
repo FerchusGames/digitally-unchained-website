@@ -13,11 +13,21 @@
   {
     while ($data = mysqli_fetch_assoc($query))
     {
+
+      if ($data['productImage'] != '') {
+        $image_name = $data['productImage'];
+      }
+      
+      else if ($data['productImage'] == '') {
+        $image_name =  'default_product.jpg';
+      }
+
       array_push($list, array(
         'id' => $data['id'],
         'name' => $data['name'],
         'price' => $data['price'],
         'description' => $data['description'],
+        'image' => 'https://www.digitallyunchained.rociochavezml.com/assets/images/products/'.$image_name,
       ));
     }
 

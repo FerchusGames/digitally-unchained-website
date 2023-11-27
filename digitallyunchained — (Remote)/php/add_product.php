@@ -24,19 +24,20 @@
     
     if($count > 0)
     {
-      echo 'The email is already registered';
+      echo '0';
     }
     else
     {
       $insert = mysqli_query($connect, "INSERT INTO products (name, price, description, visible, date, time) VALUES ('$name', '$price', '$description', '1', '$date', '$time') ");
 
-      if($insert)
-      {
-        echo '1';
-      }
+      if ($insert) {
+        $id = mysqli_insert_id($connect);
+        echo $id;
+      } 
+      
       else
       {
-        echo 'There was an error. Please report to the administrator.';
+        echo '0';
       }
     }
   }

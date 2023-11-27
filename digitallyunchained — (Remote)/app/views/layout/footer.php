@@ -7,8 +7,8 @@
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-twitter" width="24" height="24"></i></a></li>
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-instagram" width="24" height="24"></i></a></li>
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-facebook" width="24" height="24"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://twitter.com"><i class="bi bi-twitter" width="24" height="24"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://instagram.com"><i class="bi bi-instagram" width="24" height="24"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://facebook.com"><i class="bi bi-facebook" width="24" height="24"></i></a></li>
     </ul>
   </footer>
